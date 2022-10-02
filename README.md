@@ -10,6 +10,8 @@ Exploratory visal analysis was performed to identify relationships between varia
 
 [Data Dictionary](https://finances.worldbank.org/api/assets/F90CF55E-6394-42B4-A7CB-C619A386C736?download=true)
 
+[Tableau presentation](https://public.tableau.com/app/profile/martina.tomic/viz/IBRDLoanActivityAnalysis/IBRDLoanActivityAnalysis)
+
 # The steps of the Analysis
 - Analysis has been conducted using Jupyter notebooks and the Anaconda libraries manager.
 - Analysis has been conducted using Python and relevant libraries (pandas, NumPy, os, matplotlib, scipy, and seaborn).
