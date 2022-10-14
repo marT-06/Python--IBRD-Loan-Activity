@@ -2,7 +2,7 @@
 This Python-based project, which is part of the CareerFoundry Data Analysis course, exemines IBRD loans to gain insights into geographical trends in lending.
 # Objective
 The International Bank for Reconstruction and Development (IBRD) contributes to the World Bank Group's mission by lending money to the governments of its poorer members in order to improve their economies and people's standard of living.
-Exploratory visal analysis was performed to identify relationships between variables, examine geographical trends to identify the regions that are financed the most by IBRD through loans, and examine the types of loans.
+Exploratory visual analysis was performed to identify relationships between variables, examine geographical trends to identify the regions that are financed the most by IBRD through loans, and examine the types of loans.
 
 # IBRD Loan Activity Data Sets
 
